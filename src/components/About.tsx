@@ -45,7 +45,7 @@ const About = () => {
                 <div className="w-full aspect-square bg-gradient-to-br from-gold/20 to-silver/20 rounded-2xl flex items-center justify-center relative overflow-hidden">
                   {/* Profile Picture */}
                   <img 
-                    src="https://github.com/rupamp26/Rupam-s-Personal-Portfolio-Website/blob/main/IMG20250420183347.jpg" 
+                    src="IMG20250420183347.jpg" 
                     alt="Rupam Karmakar"
                     className="w-full h-full object-cover rounded-2xl"
                   />
