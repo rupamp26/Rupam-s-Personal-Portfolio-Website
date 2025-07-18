@@ -4,7 +4,7 @@ import { Calendar, MapPin, Languages, Heart } from 'lucide-react';
 
 const About = () => {
   const personalDetails = [
-    { icon: Calendar, label: 'Born', value: 'November 5, 2004' },
+    { icon: Calendar, label: 'Born', value: 'April, 2005' },
     { icon: MapPin, label: 'Location', value: 'West Bengal, India' },
     { icon: Languages, label: 'Languages', value: 'English, Hindi, Bengali' },
     { icon: Heart, label: 'Philosophy', value: 'Innovation meets Elegance' },
